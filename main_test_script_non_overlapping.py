@@ -1,4 +1,4 @@
-# iterative_patch_processing_multi_peak_v2.py
+# main_test_script_non_overlapping.py
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
